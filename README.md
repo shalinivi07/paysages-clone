@@ -2,13 +2,13 @@
 
 A modern front-end recreation inspired by the **Paysages Studio** website, built as part of my animation and front-end development practice. This project focuses on recreating smooth user interactions, immersive scrolling experiences, and high-quality UI animations using modern web technologies.
 
-## 📖 About the Project
+## About the Project
 
 This project is a clone of the **Paysages Studio** website, created purely for educational purposes to improve my understanding of advanced web animations and interactive user interfaces. The goal is not to replicate the original website for commercial use, but to study and implement the techniques commonly used in award-winning web experiences.
 
 During the development of this project, I explored concepts such as smooth scrolling, scroll-triggered animations, image transitions, responsive layouts, and component-based architecture using React.
 
-## 🎯 Objectives
+## Objectives
 
 - Practice modern React development.
 - Learn and implement advanced GSAP animations.
@@ -17,9 +17,9 @@ During the development of this project, I explored concepts such as smooth scrol
 - Gain experience recreating real-world portfolio websites.
 - Build a visually engaging and responsive user interface.
 
-## 🚀 Features
+## Features
 
-- ✨ Smooth scrolling experience
+-  Smooth scrolling experience
 - 🎬 Scroll-triggered animations
 - 🖼️ Animated image transitions
 - 📝 Text reveal animations
